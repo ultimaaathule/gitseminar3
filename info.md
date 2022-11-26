@@ -27,3 +27,4 @@ git branch <branch_name> - сщздание ветки с названием bra
 
 git checkout <branch_name> - переход к ветке с имнем <branch_name>
 git branch -d <branch_name> - удалить ветку с именем branch_name
+git merge --abort - отменить слияние, котороепрошло с конфликтом
