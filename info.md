@@ -24,3 +24,5 @@ git diff - увидеть разницу между текущим файлом 
 git branch - посмотреть список веток в репозтории 
 
 git branch <branch_name> - сщздание ветки с названием branch_name
+
+git checkout <branch_name> - переход к ветке с имнем <branch_name>
